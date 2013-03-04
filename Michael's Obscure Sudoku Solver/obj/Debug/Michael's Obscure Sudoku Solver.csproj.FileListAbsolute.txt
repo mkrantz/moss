@@ -1,0 +1,9 @@
+O:\MK_Dev\dot-net 2.0 Solutions\MK_Projects\MOSS\Michael's Obscure Sudoku Solver\obj\Debug\MOSS.exe
+O:\MK_Dev\dot-net 2.0 Solutions\MK_Projects\MOSS\Michael's Obscure Sudoku Solver\obj\Debug\MOSS.pdb
+O:\MK_Dev\dot-net 2.0 Solutions\MK_Projects\MOSS\Michael's Obscure Sudoku Solver\bin\Debug\MOSS.exe
+O:\MK_Dev\dot-net 2.0 Solutions\MK_Projects\MOSS\Michael's Obscure Sudoku Solver\bin\Debug\MOSS.pdb
+O:\MK_Dev\dot-net 2.0 Solutions\MK_Projects\MOSS\Michael's Obscure Sudoku Solver\obj\Debug\ResolveAssemblyReference.cache
+O:\MK_Dev\dot-net 2.0 Solutions\MK_Projects\MOSS\Michael's Obscure Sudoku Solver\obj\Debug\MOSS.frmSudoku.resources
+O:\MK_Dev\dot-net 2.0 Solutions\MK_Projects\MOSS\Michael's Obscure Sudoku Solver\obj\Debug\MOSS.Properties.Resources.resources
+O:\MK_Dev\dot-net 2.0 Solutions\MK_Projects\MOSS\Michael's Obscure Sudoku Solver\obj\Debug\ResGen.read.1.tlog
+O:\MK_Dev\dot-net 2.0 Solutions\MK_Projects\MOSS\Michael's Obscure Sudoku Solver\obj\Debug\ResGen.write.1.tlog

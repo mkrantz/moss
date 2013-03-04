@@ -1,0 +1,1 @@
+Sudoku solver, written in 2008.  I can't recall exactly how much of this was original coding work, but I think most if not all of it was.  The included 2 documents provide sample puzzles and solve strageties.  It looks like I only implemented one strategy:  cross hatching.

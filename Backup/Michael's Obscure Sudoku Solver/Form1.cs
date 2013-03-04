@@ -26,15 +26,15 @@ namespace MOSS
 
             // Enter the puzzle to solve in an easy graphical representation, per square
             // EASY
-            int[] square1 = { 0, 0, 0, 1, 0, 6, 3, 0, 0 };      //  1   2   3
-            int[] square2 = { 1, 5, 0, 0, 0, 0, 8, 6, 0 };      //  4   5   6
-            int[] square3 = { 0, 7, 0, 8, 2, 0, 0, 4, 0 };      //  7   8   9
-            int[] square4 = { 9, 0, 0, 0, 0, 4, 7, 3, 2 };
-            int[] square5 = { 4, 0, 0, 7, 0, 8, 0, 0, 6 };
-            int[] square6 = { 5, 6, 7, 3, 0, 0, 0, 0, 4 };
-            int[] square7 = { 0, 4, 0, 0, 1, 7, 0, 5, 0 };
-            int[] square8 = { 0, 8, 1, 0, 0, 0, 0, 3, 7 };
-            int[] square9 = { 0, 0, 9, 2, 0, 8, 0, 0, 0 };
+            //int[] square1 = { 0, 0, 0, 1, 0, 6, 3, 0, 0 };      //  1   2   3
+            //int[] square2 = { 1, 5, 0, 0, 0, 0, 8, 6, 0 };      //  4   5   6
+            //int[] square3 = { 0, 7, 0, 8, 2, 0, 0, 4, 0 };      //  7   8   9
+            //int[] square4 = { 9, 0, 0, 0, 0, 4, 7, 3, 2 };
+            //int[] square5 = { 4, 0, 0, 7, 0, 8, 0, 0, 6 };
+            //int[] square6 = { 5, 6, 7, 3, 0, 0, 0, 0, 4 };
+            //int[] square7 = { 0, 4, 0, 0, 1, 7, 0, 5, 0 };
+            //int[] square8 = { 0, 8, 1, 0, 0, 0, 0, 3, 7 };
+            //int[] square9 = { 0, 0, 9, 2, 0, 8, 0, 0, 0 };
             // MODERATE
             //int[] square1 = { 0, 0, 0, 0, 0, 9, 0, 0, 4 };      //  1   2   3
             //int[] square2 = { 2, 3, 5, 0, 0, 0, 0, 0, 0 };      //  4   5   6
@@ -56,15 +56,15 @@ namespace MOSS
             //int[] square8 = { 0, 0, 0, 0, 0, 0, 0, 0, 6 };
             //int[] square9 = { 0, 0, 0, 4, 3, 1, 9, 0, 0 };
             // VERY HARD
-            //int[] square1 = { 0, 6, 0, 0, 0, 0, 7, 0, 0 };      //  1   2   3
-            //int[] square2 = { 0, 5, 0, 3, 0, 0, 6, 0, 0 };      //  4   5   6
-            //int[] square3 = { 0, 2, 0, 0, 9, 0, 0, 1, 0 };      //  7   8   9
-            //int[] square4 = { 0, 0, 6, 0, 0, 4, 0, 0, 5 };
-            //int[] square5 = { 0, 3, 0, 0, 7, 0, 0, 9, 0 };
-            //int[] square6 = { 4, 0, 0, 1, 0, 0, 8, 0, 0 };
-            //int[] square7 = { 0, 4, 0, 0, 3, 0, 0, 2, 0 };
-            //int[] square8 = { 0, 0, 1, 0, 0, 8, 0, 4, 0 };
-            //int[] square9 = { 0, 0, 6, 0, 0, 0, 0, 5, 0 };
+            int[] square1 = { 0, 6, 0, 0, 0, 0, 7, 0, 0 };      //  1   2   3
+            int[] square2 = { 0, 5, 0, 3, 0, 0, 6, 0, 0 };      //  4   5   6
+            int[] square3 = { 0, 2, 0, 0, 9, 0, 0, 1, 0 };      //  7   8   9
+            int[] square4 = { 0, 0, 6, 0, 0, 4, 0, 0, 5 };
+            int[] square5 = { 0, 3, 0, 0, 7, 0, 0, 9, 0 };
+            int[] square6 = { 4, 0, 0, 1, 0, 0, 8, 0, 0 };
+            int[] square7 = { 0, 4, 0, 0, 3, 0, 0, 2, 0 };
+            int[] square8 = { 0, 0, 1, 0, 0, 8, 0, 4, 0 };
+            int[] square9 = { 0, 0, 6, 0, 0, 0, 0, 5, 0 };
 
             SudokuSquare[] mySudokuSquares = new SudokuSquare[9];
             CellInfo[][] myCells = new CellInfo[9][];
